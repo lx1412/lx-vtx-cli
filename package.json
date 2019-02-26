@@ -1,0 +1,27 @@
+{
+  "name": "lx-vtx-cli",
+  "version": "2.0.0",
+  "description": "前端项目脚手架",
+  "main": "index.js",
+  "bin": {
+    "vtx-cli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "vue",
+    "dva",
+    "mobx",
+    "cli"
+  ],
+  "author": "lx1412",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "unzip": "^0.1.11",
+    "yargs": "^13.2.1"
+  },
+  "devDependencies": {}
+}
